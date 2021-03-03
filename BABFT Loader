@@ -79,6 +79,5 @@ function Notify(titletxt, text, time)
 end
 
 Notify("Kupcake Hub", "Multiple Language Support Soon ", 5)
-wait(3)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Toxic-Mods/Kupcake.Hub/main/BABFT%20English", true))()
 end)
