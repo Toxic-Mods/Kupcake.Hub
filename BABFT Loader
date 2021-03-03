@@ -2,6 +2,8 @@ local library = loadstring(game.HttpGet(game, 'https://pastebin.com/raw/vGwikY93
 
 local w1 = library:Window('Language (More Soon)')
 w1:Button('English', function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Toxic-Mods/Kupcake.Hub/main/BABFT%20English", true))()
+wait(0.1)
      for i,v in pairs(game.CoreGui:GetChildren()) do
         if v:FindFirstChild('Top') then
             v:Destroy()    
@@ -79,5 +81,4 @@ function Notify(titletxt, text, time)
 end
 
 Notify("Kupcake Hub", "Multiple Language Support Soon ", 5)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Toxic-Mods/Kupcake.Hub/main/BABFT%20English", true))()
 end)
