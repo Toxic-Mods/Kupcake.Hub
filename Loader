@@ -1,1 +1,6 @@
-
+local place = game.PlaceId
+ 
+ 
+if place == 537413528 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Toxic-Mods/Kupcake.Hub/main/BABFT%20Loader", true))()
+end
