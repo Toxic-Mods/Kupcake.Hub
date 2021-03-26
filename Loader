@@ -8,6 +8,7 @@ local place = game.PlaceId
  
  
 if place == 891852901 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Toxic-Mods/Kupcake.Hub/main/Notification", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Toxic-Mods/Kupcake.Hub/main/Greenville", true))()
 end
 end
