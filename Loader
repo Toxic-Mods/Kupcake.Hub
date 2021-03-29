@@ -1,15 +1,15 @@
 local place = game.PlaceId
  
  
-if place == 537413528 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Toxic-Mods/Kupcake.Hub/main/Notification", true))()
+if place == 537413528 then --BABFT
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Toxic-Mods/KupcakeOpenSourceCodes/main/Notification", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Toxic-Mods/Kupcake.Hub/main/BABFT%20Loader", true))()
 else
 local place = game.PlaceId
  
  
-if place == 891852901 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Toxic-Mods/Kupcake.Hub/main/Notification", true))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Toxic-Mods/Kupcake.Hub/main/Greenville", true))()
+if place == 891852901 then --Greenville
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Toxic-Mods/KupcakeOpenSourceCodes/main/Notification", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Toxic-Mods/KupcakeHubGames/main/Greenville", true))()
 end
 end
