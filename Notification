@@ -1,4 +1,4 @@
-game.Players.LocalPlayer.Character.Humanoid.Health = 0
+
 wait(0.1)
 local blur = Instance.new("BlurEffect", game.Lighting)
 blur.Size = 0
