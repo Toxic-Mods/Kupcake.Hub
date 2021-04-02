@@ -1,19 +1,16 @@
 local place = game.PlaceId
- 
- 
 if place == 537413528 then --BABFT
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Toxic-Mods/KupcakeOpenSourceCodes/main/Notification", true))()
 https://raw.githubusercontent.com/Toxic-Mods/KupcakeHubGames/main/BABFT%20GUI
 else
+
 local place = game.PlaceId
- 
- 
 if place == 891852901 then --Greenville
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Toxic-Mods/KupcakeOpenSourceCodes/main/Notification", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Toxic-Mods/KupcakeHubGames/main/Greenville", true))()
 else
-local place = game.PlaceId
 
+local place = game.PlaceId
 if place == 171391948 then --Vehicle Simulator
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Toxic-Mods/KupcakeOpenSourceCodes/main/Notification", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Toxic-Mods/KupcakeHubGames/main/Vehicle%20Simulator", true))()
