@@ -1,7 +1,6 @@
 local place = game.PlaceId
 if place == 537413528 then --BABFT
-
-https://raw.githubusercontent.com/Toxic-Mods/KupcakeHubGames/main/BABFT%20GUI
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Toxic-Mods/KupcakeHubGames/main/BABFT%20GUI", true))()
 else
 
 local place = game.PlaceId
